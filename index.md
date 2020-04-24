@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://erratums.com/" target="_blank"><img width="140" src="https://raw.githubusercontent.com/Erratums/ESP8266/master/images/logo-large.png"></a></p>
+# [!](https://raw.githubusercontent.com/Erratums/ESP8266/master/images/logo-large.png)
 
 # Ajmal Muhammad P
 
