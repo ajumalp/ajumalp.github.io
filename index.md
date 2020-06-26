@@ -1,5 +1,3 @@
-# [![](https://raw.githubusercontent.com/Erratums/ESP8266/master/images/logo-large.png)](https://raw.githubusercontent.com/Erratums/ESP8266/master/images/logo-large.png)
-
 # Ajmal Muhammad P
 
 ## Welcome to GitHub Pages
